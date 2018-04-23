@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 20, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Ali Pearson)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I had to write code to make my page more animated and I used AJAX and the API key to get the information to come to my site from another server.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ap16h.github.io/lesson8_ajax2/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (AJAX is the art of exchanging data with a server, and updates part of the web page - without reloading the whole page..)
+2. (An URL is a string containing the URL to which the request is sent. This URL is required and is given to developers by the API providers in the documentation for the service.)
+3. (Making your page more dynmaic shows a huge difference in your website and other competititon. It is also really fun to learn the different code I can use to make the webpage do different things!.)
